@@ -36,5 +36,3 @@ Feel free to browse through the repositories as you accompany me through my codi
 ## 📈 GitHub Stats
 ![Jude Kimathi's Stats](https://github-readme-stats.vercel.app/api?username=jxkimathi&show_icons=true&theme=radical)
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
