@@ -11,7 +11,7 @@ I'm Jude Kimathi, a Software Engineering Student with a passion for open-source 
 - 🌱 **Learning:** Software Engineering.
 - 💬 **Passions:** Coding, Reading, Sports, Hiking.
 - 📫 **How to reach me:** judescriva8@gmail.com
-- ⚡ **Fun fact:**  
+- ⚡ **Fun fact:**  ...
 
 ## 🛠️ Skills and Tools
 - 💻 **Languages:** Python, C, HTML&CSS, JavaScript.
