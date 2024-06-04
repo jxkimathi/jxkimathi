@@ -1,4 +1,4 @@
-![a bit of code](/code_background.jpg)
+![a dinosaur](/dino.jpeg)
 
 # Hello there 👋🏾, I'm Jude 😁
 
