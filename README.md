@@ -9,10 +9,10 @@ I'm **Jude**, a Software Engineering Student with a passion for web development 
 
 - :dependabot:  I’m open to Work!!!
 - 🌍 **Location:** Nairobi, Kenya.
-- 👨🏾‍💻 **Currently Working on:** An E-Commerce API.
+- 👨🏾‍💻 **Currently Working on:** A Static Messaging Website.
 - 🎓 **Education:** ALX Africa.
-- 🌱 **Learning:** Software Engineering.
-- 💬 **Passions:** Coding, Reading, Sports, Hiking.
+- 🌱 **Learning:** Video Editing.
+- 💬 **Passions:** Coding, Reading, Sports, Hiking, Editing.
 - 📫 **How to reach me:** judekimathii@gmail.com
 - ⚡ **Fun fact:**  ...
 
