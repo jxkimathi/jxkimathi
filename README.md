@@ -9,7 +9,7 @@ I'm **Jude**, a Software Engineering Student with a passion for web development 
 
 - :dependabot:  I’m open to Work!!!
 - 🌍 **Location:** Nairobi, Kenya.
-- 👨🏾‍💻 **Currently Working on:** A Static Messaging Website.
+- 👨🏾‍💻 **Currently Working on:** A forest monitoring and transparent carbon credit validation website.
 - 🎓 **Education:** ALX Africa.
 - 🌱 **Learning:** Video Editing.
 - 💬 **Passions:** Coding, Reading, Sports, Hiking, Editing.
@@ -17,7 +17,7 @@ I'm **Jude**, a Software Engineering Student with a passion for web development 
 - ⚡ **Fun fact:**  ...
 
 ## 🛠️ Skills and Tools
-- 💻 **Languages:** Python, C, HTML&CSS, JavaScript.
+- 💻 **Languages:** Python, JavaScript, PostgreSQl, MongoDB.
 - 📦 **Frameworks:** Django, React, Flask, Node.js, Express.js.
 - 🧰 **Tools:** Git, Docker, VS Code.
 - **Other:** Agile methodologies, Linux.
@@ -34,7 +34,7 @@ I am very open to collaborating on projects as I thrive in working in a group an
 ## 📫 Connect with Me
 - <a href="https://www.linkedin.com/in/judekimathi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
 - <a href="https://twitter.com/spaghetttus" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="30"></a>
-- <a href="mailto:judescriva8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"></a>
+- <a href="mailto:judekimathii@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"></a>
 
 ## 📈 GitHub Stats
 ![Jude Kimathi's Stats](https://github-readme-stats.vercel.app/api?username=jxkimathi&show_icons=true&theme=radical)
