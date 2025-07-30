@@ -1,7 +1,16 @@
-![a dinosaur](/dino.jpeg)
-
 # Hello there 👋🏾, Welcome 😁
 
+## 🚀 Current Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [🎵 Kayo Backend](https://github.com/jxkimathi/kayo-backend) | Backend API for  AgTech startup focused on building digital infrastructure to enhance transparency, efficiency and sustainability in agricultural supply chains. | Node.js, Firebase, Express | 🔨 In Development |
+| [📱 Birthday Website](https://github.com/jxkimathi/birthday_website) | A beautiful, dynamic React-based birthday celebration website with editable content, photo uploads, and smooth animations. | React, Node.js | ✅ Live |
+| [🌐 Static Daily Messaging](https://static-daily-messaging.vercel.app/) | A special application that displays daily messages in a beautiful, interactive interface. | Node.js, React | ✅ Live |
+
+</div>
 <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=How+can+I+help+you?;Wanna+see+my+projects?;Feel+free+to+explore+all+of+them.;"></a>
 
 ## About Me..
