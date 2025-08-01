@@ -7,7 +7,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | [🌿 Kayo Backend](https://github.com/jxkimathi/kayo-backend) | Backend API for  AgTech startup focused on building digital infrastructure to enhance transparency, efficiency and sustainability in agricultural supply chains. | Node.js, Firebase, Express | 🔨 In Development |
-| [📱 Birthday Website](https://github.com/jxkimathi/birthday_website) | A beautiful, dynamic React-based birthday celebration website with editable content, photo uploads, and smooth animations. | React, Node.js | ✅ Live |
+| [📱 Birthday Website](https://birthday-website-fawn-three.vercel.app/) | A beautiful, dynamic React-based birthday celebration website with editable content, photo uploads, and smooth animations. | React, Node.js | ✅ Live |
 | [🌐 Static Daily Messaging](https://static-daily-messaging.vercel.app/) | A special application that displays daily messages in a beautiful, interactive interface. | Node.js, React | ✅ Live |
 
 </div>
